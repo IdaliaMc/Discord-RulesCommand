@@ -1,0 +1,7 @@
+fr\ayato\customcommands\utils\Config.class
+fr\ayato\customcommands\commands\Site.class
+fr\ayato\customcommands\commands\Discord.class
+fr\ayato\customcommands\CashPrize.class
+fr\ayato\customcommands\commands\Reglement.class
+fr\ayato\customcommands\commands\Vote.class
+fr\ayato\customcommands\Main.class

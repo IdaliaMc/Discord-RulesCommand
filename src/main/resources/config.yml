@@ -1,0 +1,35 @@
+discord:
+  url: "https://discord.gg/idalia"
+  message:
+    - "§f§m----------------------------------"
+    - "§e§lIdalia§b§lMc §f» §eVoici le lien de notre Discord :"
+    - "§d%url%"
+    - "§f§m----------------------------------"
+site:
+  url: "https://www.idalia.fr"
+  message:
+    - "§f§m----------------------------------"
+    - "§e§lIdalia§b§lMc §f» §eVoici le lien de notre Site :"
+    - "§d%url%"
+    - "§f§m----------------------------------"
+reglement:
+  url: "https://www.idalia.fr/reglement"
+  message:
+    - "§f§m----------------------------------"
+    - "§e§lIdalia§b§lMc §f» §eVoici le lien de notre Règlement :"
+    - "§d%url%"
+    - "§f§m----------------------------------"
+vote:
+  url: "https://www.idalia.fr/vote"
+  message:
+    - "§f§m----------------------------------"
+    - "§e§lIdalia§b§lMc §f» §eVoici le lien pour voter : "
+    - "§d%url%"
+    - "§f§m----------------------------------"
+cashprize:
+  url: "https://www.idalia.fr/cashprize"
+  message:
+    - "§f§m----------------------------------"
+    - "§e§lIdalia§b§lMc §f» §eVoici le lien du CashPrize :"
+    - "§d%url%"
+    - "§f§m----------------------------------"

@@ -1,0 +1,15 @@
+name: CustomCommands
+author: ayato__
+version: 1.0
+main: fr.ayato.customcommands.Main
+commands:
+  discord:
+    permissions: discord.use
+  reglement:
+    permissions: reglement.use
+  vote:
+    permissions: vote.use
+  cashprize:
+    permissions: cashprize.use
+  site:
+    permissions: site.use
